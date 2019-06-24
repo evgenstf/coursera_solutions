@@ -1,0 +1,5 @@
+#!/bin/bash -e
+
+g++ max_element_if.cpp  --std=c++17
+
+./a.out
