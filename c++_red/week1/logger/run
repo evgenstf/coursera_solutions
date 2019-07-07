@@ -1,0 +1,4 @@
+#!/bin/bash -e
+
+g++ log.cpp --std=c++17
+./a.out
